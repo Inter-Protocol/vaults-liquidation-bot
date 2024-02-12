@@ -44,7 +44,7 @@ export default harden({
         {
             delta: {
                 type: 'percentage',
-                value: 6n, // 5% off from the external price
+                value: 6n, // 6% off from the external price
             },
             spend: {
                 type: 'flash',
